@@ -1,5 +1,5 @@
 module.exports = {
-	serverPort: 8000,
+	serverPort: 8080,
 	serverName: "Slither-clone",
 	serverUrl: "localhost",
 	gameservers: [{
