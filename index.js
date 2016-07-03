@@ -1,1 +1,1 @@
-new(require('./src/bootstrap'));
+require('./bin/slither');
