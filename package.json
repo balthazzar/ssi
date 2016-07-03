@@ -13,5 +13,8 @@
 		"debug": "^2.2.0",
 		"hbs": "^2.9.0",
 		"ws": "latest"
+	},
+	"scripts": {
+		"start": "node index.js"
 	}
 }
