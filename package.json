@@ -1,15 +1,17 @@
 {
-	"name": "slither-clone-server",
-	"scripts": {
-		"start": "node index.js"
-	},
+	"name": "slither-clone-client",
 	"version": "0.0.1",
-	"pkgDependencies": {},
 	"dependencies": {
-		"chalk": "^1.1.3",
-		"coffee-script": "^1.10.0",
-		"object-keys": "^1.0.9",
-		"semver": "^5.1.0",
-		"ws": "^0.8.1"
+		"connect-busboy": "^0.0.2",
+		"cookie-parser": "^1.3.5",
+		"serve-favicon": "^2.2.1",
+		"body-parser": "^1.12.4",
+		"geoip-lite": "latest",
+		"ipaddr.js": "latest",
+		"express": "^4.12.4",
+		"morgan": "^1.5.3",
+		"debug": "^2.2.0",
+		"hbs": "^2.9.0",
+		"ws": "latest"
 	}
 }
